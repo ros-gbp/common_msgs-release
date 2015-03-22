@@ -2,14 +2,11 @@
 Changelog for package nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.1 (2015-03-17)
+1.11.7 (2015-03-21)
 -------------------
-* updating outdated urls. fixes `#52 <https://github.com/ros/common_msgs/issues/52>`_.
+* change type of initial_pose in SetMap service to PoseWithCovarianceStamped
 * Adds a SetMap service message to support swap maps functionality in amcl
-* Contributors: Tully Foote, liz-murphy
-
-1.12.0 (2014-12-29)
--------------------
+* Contributors: Stephan Wirth, liz-murphy
 
 1.11.6 (2014-11-04)
 -------------------
