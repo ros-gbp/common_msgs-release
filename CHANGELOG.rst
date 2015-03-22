@@ -2,6 +2,9 @@
 Changelog for package actionlib_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.12.2 (2015-03-21)
+-------------------
+
 1.12.1 (2015-03-17)
 -------------------
 * updating outdated urls. fixes `#52 <https://github.com/ros/common_msgs/issues/52>`_.
