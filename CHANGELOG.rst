@@ -2,6 +2,12 @@
 Changelog for package geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.12.2 (2015-03-21)
+-------------------
+* Add Accel, AccelStamped, AccelWithCovariance, AccelWithCovarianceStamped message definitions
+* Add Inertia and InertiaStamped messages
+* Contributors: Jonathan Bohren, Paul Bovbel
+
 1.12.1 (2015-03-17)
 -------------------
 * updating outdated urls. fixes `#52 <https://github.com/ros/common_msgs/issues/52>`_.
