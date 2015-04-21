@@ -226,10 +226,11 @@ inline void PointCloud2Modifier::setPointCloud2FieldsByString(int n_fields, ...)
   cloud_msg_.row_step = cloud_msg_.width * cloud_msg_.point_step;
   cloud_msg_.data.resize(cloud_msg_.height * cloud_msg_.row_step);
 }
+}
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-namespace impl
+namespace
 {
 
 /**
@@ -410,7 +411,6 @@ int PointCloud2IteratorBase<T, TT, U, C, V>::set_field(const sensor_msgs::PointC
   return field_iter->offset;
 }
 
-}
 }
 
 #endif// SENSOR_MSGS_IMPL_POINT_CLOUD_ITERATOR_H
