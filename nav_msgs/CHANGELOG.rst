@@ -2,6 +2,9 @@
 Changelog for package nav_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.12.3 (2015-04-20)
+-------------------
+
 1.12.2 (2015-03-21)
 -------------------
 * change type of initial_pose in SetMap service to PoseWithCovarianceStamped
