@@ -2,16 +2,19 @@
 Changelog for package sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.3 (2015-04-20)
+1.11.9 (2016-02-22)
 -------------------
+* added type mapping and support for different types of point cloud points
+* remove boost dependency fixes `#81 <https://github.com/ros/common_msgs/issues/81>`_
+* adding a BatteryState message
+* Contributors: Sebastian Pütz, Tully Foote
 
-1.12.2 (2015-03-21)
+1.11.8 (2015-04-20)
 -------------------
+* remove warning due to anonymous namespace
+* Contributors: Vincent Rabaud
 
-1.12.1 (2015-03-17)
--------------------
-
-1.12.0 (2014-12-29)
+1.11.7 (2015-03-21)
 -------------------
 
 1.11.6 (2014-11-04)
