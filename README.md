@@ -1,3 +1,36 @@
+## common_msgs (kinetic) - 1.12.4-0
+
+The packages in the `common_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic common_msgs` on `Fri, 11 Mar 2016 22:28:13 -0000`
+
+These packages were released:
+- `actionlib_msgs`
+- `common_msgs`
+- `diagnostic_msgs`
+- `geometry_msgs`
+- `nav_msgs`
+- `sensor_msgs`
+- `shape_msgs`
+- `stereo_msgs`
+- `trajectory_msgs`
+- `visualization_msgs`
+
+Version of package(s) in repository `common_msgs`:
+
+- upstream repository: git@github.com:ros/common_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.12.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## common_msgs (jade) - 1.12.4-0
 
 The packages in the `common_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release common_msgs --ros-distro jade --track jade` on `Tue, 23 Feb 2016 07:48:26 -0000`
