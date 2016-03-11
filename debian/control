@@ -1,0 +1,13 @@
+Source: ros-kinetic-trajectory-msgs
+Section: misc
+Priority: extra
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: http://wiki.ros.org/trajectory_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-trajectory-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-rosbag-migration-rule, ros-kinetic-std-msgs
+Description: This package defines messages for defining robot trajectories.
+ These messages are also the building blocks of most of the control_msgs actions.
