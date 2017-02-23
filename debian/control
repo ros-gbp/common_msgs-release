@@ -1,0 +1,13 @@
+Source: ros-lunar-diagnostic-msgs
+Section: misc
+Priority: extra
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-message-generation, ros-lunar-std-msgs
+Homepage: http://wiki.ros.org/diagnostic_msgs
+Standards-Version: 3.9.2
+
+Package: ros-lunar-diagnostic-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-message-runtime, ros-lunar-std-msgs
+Description: This package holds the diagnostic messages which provide the standardized interface for the diagnostic and runtime monitoring systems in ROS.
+ These messages are currently used by the diagnostics Stack, which provides libraries for simple ways to set and access the messages, as well as automated ways to process the diagnostic data. These messages are used for long term logging and will not be changed unless there is a very important reason.
