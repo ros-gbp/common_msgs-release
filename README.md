@@ -1,3 +1,36 @@
+## common_msgs (lunar) - 1.12.5-0
+
+The packages in the `common_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release common_msgs -t lunar -r lunar` on `Thu, 23 Feb 2017 01:42:34 -0000`
+
+These packages were released:
+- `actionlib_msgs`
+- `common_msgs`
+- `diagnostic_msgs`
+- `geometry_msgs`
+- `nav_msgs`
+- `sensor_msgs`
+- `shape_msgs`
+- `stereo_msgs`
+- `trajectory_msgs`
+- `visualization_msgs`
+
+Version of package(s) in repository `common_msgs`:
+
+- upstream repository: git@github.com:ros/common_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.12.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## common_msgs (jade) - 1.12.5-0
 
 The packages in the `common_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release common_msgs -t jade -r jade` on `Sat, 01 Oct 2016 01:01:57 -0000`
