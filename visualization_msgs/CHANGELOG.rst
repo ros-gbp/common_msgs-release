@@ -2,30 +2,17 @@
 Changelog for package visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.6 (2018-05-03)
+1.11.10 (2018-05-03)
+--------------------
+
+1.11.9 (2016-02-22)
 -------------------
 
-1.12.5 (2016-09-30)
--------------------
-* Fix spelling mistakes
-* Contributors: trorornmn
-
-1.12.4 (2016-02-22)
+1.11.8 (2015-04-20)
 -------------------
 
-1.12.3 (2015-04-20)
+1.11.7 (2015-03-21)
 -------------------
-
-1.12.2 (2015-03-21)
--------------------
-
-1.12.1 (2015-03-17)
--------------------
-
-1.12.0 (2014-12-29)
--------------------
-* Enable DELETEALL=3 definition for marker action. Fixes `#39 <https://github.com/ros/common_msgs/issues/39>`_
-* Contributors: Tully Foote
 
 1.11.6 (2014-11-04)
 -------------------
@@ -187,6 +174,6 @@ Changelog for package visualization_msgs
 * added more functions to include/visualization_msgs/interactive_marker_tools.h
 * added initial version of interactive marker messages
 * rosbuild2 taking shape
-* removing old exports for msg/cpp and reving to 1.3.7 in preparation for release
+* removing old exports for msg/cpp and reving to 1.3.7 in preperation for release
 * update rosbagmigration dependency (`#4510 <https://github.com/ros/common_msgs/issues/4510>`_)
 * add visualization_msgs to common_msgs
