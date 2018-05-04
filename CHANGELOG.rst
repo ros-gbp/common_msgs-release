@@ -2,6 +2,9 @@
 Changelog for package diagnostic_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.10 (2018-05-03)
+--------------------
+
 1.11.9 (2016-02-22)
 -------------------
 * diagnostic_msgs: Add messages for service used to add diagnostics to aggregator
