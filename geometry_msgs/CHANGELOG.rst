@@ -2,24 +2,37 @@
 Changelog for package geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.11.10 (2018-05-03)
---------------------
+1.12.6 (2018-05-03)
+-------------------
 
-1.11.9 (2016-02-22)
+1.12.5 (2016-09-30)
+-------------------
+* Fix spelling mistakes
+* Contributors: trorornmn
+
+1.12.4 (2016-02-22)
 -------------------
 * clarify the definition of a Vector3
 * Contributors: Vincent Rabaud
 
-1.11.8 (2015-04-20)
+1.12.3 (2015-04-20)
 -------------------
 * geometry_msgs/InertiaStamped uses geometry_msgs/Inertia.
 * Contributors: Gayane Kazhoyan, Georg Bartels
 
-1.11.7 (2015-03-21)
+1.12.2 (2015-03-21)
 -------------------
 * Add Accel, AccelStamped, AccelWithCovariance, AccelWithCovarianceStamped message definitions
 * Add Inertia and InertiaStamped messages
 * Contributors: Jonathan Bohren, Paul Bovbel
+
+1.12.1 (2015-03-17)
+-------------------
+* updating outdated urls. fixes `#52 <https://github.com/ros/common_msgs/issues/52>`_.
+* Contributors: Tully Foote
+
+1.12.0 (2014-12-29)
+-------------------
 
 1.11.6 (2014-11-04)
 -------------------

@@ -2,16 +2,29 @@
 Changelog for package actionlib_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.11.10 (2018-05-03)
---------------------
-
-1.11.9 (2016-02-22)
+1.12.6 (2018-05-03)
 -------------------
 
-1.11.8 (2015-04-20)
+1.12.5 (2016-09-30)
+-------------------
+* Fix spelling mistakes
+* Contributors: trorornmn
+
+1.12.4 (2016-02-22)
 -------------------
 
-1.11.7 (2015-03-21)
+1.12.3 (2015-04-20)
+-------------------
+
+1.12.2 (2015-03-21)
+-------------------
+
+1.12.1 (2015-03-17)
+-------------------
+* updating outdated urls. fixes `#52 <https://github.com/ros/common_msgs/issues/52>`_.
+* Contributors: Tully Foote
+
+1.12.0 (2014-12-29)
 -------------------
 
 1.11.6 (2014-11-04)
@@ -45,7 +58,7 @@ Changelog for package actionlib_msgs
 
 1.10.5 (2014-02-25)
 -------------------
-* removing usage of catkin function not guarenteed available fixes `#30 <https://github.com/ros/common_msgs/issues/30>`_
+* removing usage of catkin function not guaranteed available fixes `#30 <https://github.com/ros/common_msgs/issues/30>`_
 * Contributors: Tully Foote
 
 1.10.4 (2014-02-18)
