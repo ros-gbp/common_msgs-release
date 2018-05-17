@@ -1,0 +1,12 @@
+Source: ros-lunar-sensor-msgs
+Section: misc
+Priority: extra
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-message-generation, ros-lunar-rosbag, ros-lunar-rosunit, ros-lunar-std-msgs
+Homepage: http://ros.org/wiki/sensor_msgs
+Standards-Version: 3.9.2
+
+Package: ros-lunar-sensor-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-geometry-msgs, ros-lunar-message-runtime, ros-lunar-std-msgs
+Description: This package defines messages for commonly used sensors, including cameras and scanning laser rangefinders.
