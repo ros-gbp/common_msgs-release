@@ -1,0 +1,12 @@
+Source: ros-kinetic-stereo-msgs
+Section: misc
+Priority: extra
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Homepage: http://wiki.ros.org/stereo_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-stereo-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Description: stereo_msgs contains messages specific to stereo processing, such as disparity images.
