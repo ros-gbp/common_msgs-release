@@ -1,3 +1,36 @@
+## common_msgs (melodic) - 1.12.7-0
+
+The packages in the `common_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -t melodic -r melodic common_msgs` on `Wed, 07 Nov 2018 07:20:37 -0000`
+
+These packages were released:
+- `actionlib_msgs`
+- `common_msgs`
+- `diagnostic_msgs`
+- `geometry_msgs`
+- `nav_msgs`
+- `sensor_msgs`
+- `shape_msgs`
+- `stereo_msgs`
+- `trajectory_msgs`
+- `visualization_msgs`
+
+Version of package(s) in repository `common_msgs`:
+
+- upstream repository: git@github.com:ros/common_msgs.git
+- release repository: https://github.com/ros-gbp/common_msgs-release.git
+- rosdistro version: `1.12.6-0`
+- old version: `1.12.6-0`
+- new version: `1.12.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## common_msgs (lunar) - 1.12.7-0
 
 The packages in the `common_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -t lunar -r lunar common_msgs` on `Wed, 07 Nov 2018 07:07:23 -0000`
