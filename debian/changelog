@@ -1,0 +1,267 @@
+ros-melodic-shape-msgs (1.12.7-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 06 Nov 2018 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.6-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 03 May 2018 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.5-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 30 Sep 2016 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.4-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 22 Feb 2016 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.3-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 20 Apr 2015 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.2-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sat, 21 Mar 2015 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.1-0stretch) stretch; urgency=high
+
+  * updating outdated urls. fixes #52 <https://github.com/ros/common_msgs/issues/52>.
+  * Contributors: Tully Foote
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 17 Mar 2015 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.12.0-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 29 Dec 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.6-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 04 Nov 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.5-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 27 Oct 2014 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.4-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 19 Jun 2014 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.3-0stretch) stretch; urgency=high
+
+  * Export architecture_independent flag in package.xml
+  * Contributors: Scott K Logan
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 07 May 2014 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.2-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 24 Apr 2014 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.1-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 16 Apr 2014 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.11.0-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 04 Mar 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.6-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 27 Feb 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.5-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 25 Feb 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.4-0stretch) stretch; urgency=high
+
+  * Add a description to shape_msgs.
+  * Contributors: Michael Ferguson
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 18 Feb 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.3-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 07 Jan 2014 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.2-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 19 Aug 2013 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.1-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 16 Aug 2013 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.10.0-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sat, 13 Jul 2013 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.16-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 21 May 2013 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.15-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 08 Mar 2013 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.14-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sat, 19 Jan 2013 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.13-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Sun, 13 Jan 2013 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.12-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 02 Jan 2013 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.11-0stretch) stretch; urgency=high
+
+  * modified dep type of catkin
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Mon, 17 Dec 2012 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.10-0stretch) stretch; urgency=high
+
+  * add missing downstream depend
+  * switched from langs to message_* packages
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 13 Dec 2012 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.9-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 22 Nov 2012 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.8-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 14 Nov 2012 08:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.7-0stretch) stretch; urgency=high
+
+  * fix catkin function order
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 30 Oct 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.6-0stretch) stretch; urgency=high
+
+  * updated cmake min version to 2.8.3, use cmake_parse_arguments instead of custom macro
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 18 Oct 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.5-0stretch) stretch; urgency=high
+
+  * fixed missing find genmsg
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 28 Sep 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.4-0stretch) stretch; urgency=high
+
+
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 28 Sep 2012 01:06:00 -0000
+
+ros-melodic-shape-msgs (1.9.3-0stretch) stretch; urgency=high
+
+  * cleanup
+  * updated to latest catkin
+  * fixed dependencies and more
+  * updated to latest catkin: created package.xmls, updated CmakeLists.txt
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Fri, 28 Sep 2012 00:39:00 -0000
+
+ros-melodic-shape-msgs (1.9.2-0stretch) stretch; urgency=high
+
+  * updated pkg-config in manifest.xml
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 05 Sep 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.1-0stretch) stretch; urgency=high
+
+  * use install destination variables, removed manual installation of manifests
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Tue, 04 Sep 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.9.0-0stretch) stretch; urgency=high
+
+  * updated to current catkin
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 29 Aug 2012 07:00:00 -0000
+
+ros-melodic-shape-msgs (1.8.13-0stretch) stretch; urgency=high
+
+  * Add more comments, change the types to uint8
+  * updates to shape based on discussion with vincent (and dave h.)
+  * removing un-needed stack.sml
+  * updated deps
+  * one more convention
+  * more changes after talking to Dave
+  * update per Tully's latest comments
+  * more work on shapes, based on reviews
+  * apply updates from Tully
+  * removing C++ code from shapes_msgs
+  * shange comment as Dave suggested
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Thu, 26 Jul 2012 19:34:15 -0700
+
+ros-melodic-shape-msgs (1.8.8-0stretch) stretch; urgency=high
+
+  * update ID values so they resemble markers better
+  * address Vincent's comments
+  * applying Sachin's comments
+  * add shape msgs
+
+ -- Ioan Sucan <isucan@willowgarage.com>  Wed, 13 Jun 2012 05:36:00 -0000
+
+
