@@ -1,0 +1,13 @@
+Source: ros-melodic-actionlib-msgs
+Section: misc
+Priority: extra
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin (>= 0.5.78), ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/actionlib_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-actionlib-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-generation, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: actionlib_msgs defines the common messages to interact with an action server and an action client.
+ For full documentation of the actionlib API see the actionlib package.
