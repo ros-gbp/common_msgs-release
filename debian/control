@@ -1,0 +1,13 @@
+Source: ros-noetic-geometry-msgs
+Section: misc
+Priority: optional
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: http://wiki.ros.org/geometry_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-geometry-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: geometry_msgs provides messages for common geometric primitives such as points, vectors, and poses.
+ These primitives are designed to provide a common data type and facilitate interoperability throughout the system.
