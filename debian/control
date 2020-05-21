@@ -1,0 +1,13 @@
+Source: ros-noetic-common-msgs
+Section: misc
+Priority: optional
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://wiki.ros.org/common_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-common-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib-msgs, ros-noetic-diagnostic-msgs, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-sensor-msgs, ros-noetic-shape-msgs, ros-noetic-stereo-msgs, ros-noetic-trajectory-msgs, ros-noetic-visualization-msgs
+Description: common_msgs contains messages that are widely used by other ROS packages.
+ These includes messages for actions (actionlib_msgs), diagnostics (diagnostic_msgs), geometric primitives (geometry_msgs), robot navigation (nav_msgs), and common sensors (sensor_msgs), such as laser range finders, cameras, point clouds.
