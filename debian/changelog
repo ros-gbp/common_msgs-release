@@ -1,0 +1,337 @@
+ros-noetic-geometry-msgs (1.13.0-1buster) buster; urgency=high
+
+  * Bump CMake version to avoid CMP0048 warning (#158 <https://github.com/ros/common_msgs/issues/158>)
+  * Contributors: Shane Loretz
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 21 May 2020 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.7-1buster) buster; urgency=high
+
+  * Add deprecation comment about Pose2D (#130 <https://github.com/ros/common_msgs/issues/130>)
+    It started as unused and still isn't recommended.
+    Followup to #129 <https://github.com/ros/common_msgs/issues/129>
+  * Contributors: Tully Foote
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 06 Nov 2018 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.6-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 03 May 2018 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.5-1buster) buster; urgency=high
+
+  * Fix spelling mistakes
+  * Contributors: trorornmn
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 30 Sep 2016 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.4-1buster) buster; urgency=high
+
+  * clarify the definition of a Vector3
+  * Contributors: Vincent Rabaud
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 22 Feb 2016 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.3-1buster) buster; urgency=high
+
+  * geometry_msgs/InertiaStamped uses geometry_msgs/Inertia.
+  * Contributors: Gayane Kazhoyan, Georg Bartels
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 20 Apr 2015 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.2-1buster) buster; urgency=high
+
+  * Add Accel, AccelStamped, AccelWithCovariance, AccelWithCovarianceStamped message definitions
+  * Add Inertia and InertiaStamped messages
+  * Contributors: Jonathan Bohren, Paul Bovbel
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Sat, 21 Mar 2015 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.1-1buster) buster; urgency=high
+
+  * updating outdated urls. fixes #52 <https://github.com/ros/common_msgs/issues/52>.
+  * Contributors: Tully Foote
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 17 Mar 2015 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.12.0-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 29 Dec 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.6-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 04 Nov 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.5-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 27 Oct 2014 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.4-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 19 Jun 2014 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.3-1buster) buster; urgency=high
+
+  * Export architecture_independent flag in package.xml
+  * Contributors: Scott K Logan
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 07 May 2014 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.2-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 24 Apr 2014 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.1-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 16 Apr 2014 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.11.0-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 04 Mar 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.6-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 27 Feb 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.5-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 25 Feb 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.4-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 18 Feb 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.3-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 07 Jan 2014 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.2-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 19 Aug 2013 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.1-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 16 Aug 2013 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.10.0-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Sat, 13 Jul 2013 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.16-1buster) buster; urgency=high
+
+  * update email in package.xml
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 21 May 2013 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.15-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 08 Mar 2013 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.14-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Sat, 19 Jan 2013 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.13-1buster) buster; urgency=high
+
+  * fix spelling in comments (fix #3194 <https://github.com/ros/common_msgs/issues/3194>)
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Sun, 13 Jan 2013 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.12-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 02 Jan 2013 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.11-1buster) buster; urgency=high
+
+  * modified dep type of catkin
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Mon, 17 Dec 2012 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.10-1buster) buster; urgency=high
+
+  * add missing downstream depend
+  * switched from langs to message_* packages
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 13 Dec 2012 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.9-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 22 Nov 2012 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.8-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 14 Nov 2012 08:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.7-1buster) buster; urgency=high
+
+  * fix catkin function order
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 30 Oct 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.6-1buster) buster; urgency=high
+
+  * updated cmake min version to 2.8.3, use cmake_parse_arguments instead of custom macro
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 18 Oct 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.5-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 28 Sep 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.4-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 28 Sep 2012 01:06:00 -0000
+
+ros-noetic-geometry-msgs (1.9.3-1buster) buster; urgency=high
+
+  * cleanup
+  * cleaned up package.xml files
+  * updated to latest catkin
+  * fixed dependencies and more
+  * updated to latest catkin: created package.xmls, updated CmakeLists.txt
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Fri, 28 Sep 2012 00:39:00 -0000
+
+ros-noetic-geometry-msgs (1.9.2-1buster) buster; urgency=high
+
+  * updated pkg-config in manifest.xml
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 05 Sep 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.1-1buster) buster; urgency=high
+
+  * use install destination variables, removed manual installation of manifests
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Tue, 04 Sep 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.9.0-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 29 Aug 2012 07:00:00 -0000
+
+ros-noetic-geometry-msgs (1.8.13-1buster) buster; urgency=high
+
+
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Thu, 26 Jul 2012 19:34:15 -0700
+
+ros-noetic-geometry-msgs (1.8.8-1buster) buster; urgency=high
+
+  * removed obsolete catkin tag from manifest files
+  * removed unnecessary package name from some messages
+  * adding manifest exports
+  * removed depend, added catkin
+  * stripping depend and export tags from common_msgs manifests as msg dependencies are now declared in cmake and stack.yaml.  Also removed bag migration exports
+  * install-related fixes
+  * common_msgs: removing migration rules as all are over a year old
+  * bye bye vestigial MSG_DIRS
+  * geometry_msgs: getting rid of other build files
+  * updated to new catkin_export_python macro
+  * adios rosbuild2 in manifest.xml
+  * catkin updates
+  * catkin_project
+  * Updated to work with new message generation macros
+  * adios debian/ hello stack.yaml.  (sketch/prototype/testing).
+  * Getting standalone message generation working... w/o munging rosbuild2
+  * rosbuild2 tweaks
+  * initial updating for new light message generation and wgbuild
+  * missing dependencies
+  * updating bagmigration exports
+  * rosbuild2 taking shape
+  * workaround bug #ros3018 until ros-1.2.3 comes out
+  * removing all the extra exports
+  * Added Ubuntu platform tags to manifest
+  * Remove use of deprecated rosbuild macros
+  * link to tf package as per doc review
+  * doc reviewed status
+  * wrapping manifest nicely
+  * updated url and description
+  * full migration rules
+  * switching TransformStamped logic to follow that of all other frame_ids where the frame_id is the operating frame and there is now a child_frame_id which defines the target frame.  And the parent frame is gone.  This is only changing the message.  The API change will come later.
+  * making covariance follow same convention as Pose
+  * rotation representation was specified the wrong way in the message comment
+  * Adding a stamped version of polygon
+  * Adding comment to Polygon message
+  * Adding migration rule from ParticleCloud to PoseArray
+  * clearing API reviews for they've been through a bunch of them recently.
+  * comments on all msgs except Polygon
+  * removing PoseWithRates as it's deprecated.
+  * Changing naming of bag migration rules.
+  * Modifying migration rules for Odometry and WrenchStamped change of field names.
+  * Adding actual migration rules for all of the tested common_msgs migrations.
+  * undo of #2270 <https://github.com/ros/common_msgs/issues/2270>, (.data for stamped). reverts r21133
+  * Adding migration rules to get migration tests to pass.
+  * switching from PosewithRatesStamped to Odometry #2277 <https://github.com/ros/common_msgs/issues/2277>
+  * Fixing some of the migration rules associated with unrolling of the .data change.
+  * PoseWithCovarianceStamped::data -> PoseWithCovarianceStamped::pose
+  * Reverse r21134, PointStamped::point->PointStamped::data
+  * reverse QuaternionStamped::quaternion -> QuaternionStamped::data change
+  * undoing r21137, keeping Vector3Stamped as was, but keeping in fix to door_handle_detector 'using' bug
+  * Adding more migration rule tests and fixing assorted rules.
+  * reverting r2118. Redoing #2275 <https://github.com/ros/common_msgs/issues/2275> #2274 <https://github.com/ros/common_msgs/issues/2274> to not go to 'data' standard
+  * #2271 <https://github.com/ros/common_msgs/issues/2271> Vector3Stamped uses new standarization
+  * PointStamped::point -> PointStamped::data (#2276 <https://github.com/ros/common_msgs/issues/2276>)
+  * new Stamped format #2270 <https://github.com/ros/common_msgs/issues/2270>
+  * Changing migration rule for Twist to go to TwistStamped.
+  * QuaternionStamped::quaternion -> QuaternionStamped::data (#2278 <https://github.com/ros/common_msgs/issues/2278>)
+  * #2274 <https://github.com/ros/common_msgs/issues/2274> #2275 <https://github.com/ros/common_msgs/issues/2275> updated to header/data
+  * PoseWithCovariance->PoseWithCovarianceStamped
+    PoseWithCovarianceStamped::pose_with_covariance -> PoseWithCovarianceStamped::data
+  * First half of the change from deprecated_msgs::RobotBase2DOdom to nav_msgs::Odometry, I think all the c++ compiles, can't speak for functionality yet, also... the python has yet to be run... this may break some things
+  * Moved robot_msgs/Polygon3D to geometry_msgs/Polygon for ticket #1310 <https://github.com/ros/common_msgs/issues/1310>
+  * moving PoseArray into geometry_msgs #1907 <https://github.com/ros/common_msgs/issues/1907>
+  * removing header for this is a type for composing and doesn't stand on it's own to be transformed etc.
+  * adding TwistWithCovariance #2251 <https://github.com/ros/common_msgs/issues/2251>
+  * creating Wrench and WrenchStamped in geometry_msgs #1935 <https://github.com/ros/common_msgs/issues/1935>
+  * adding unused Pose2D message as per API review #2249 <https://github.com/ros/common_msgs/issues/2249>
+  * geometry_msgs: Documented that covariance uses fixed axis not euler angles.
+  * merging in the changes to messages see ros-users email.  THis is about half the common_msgs API changes
+
+ -- Tully Foote <tfoote@osrfoundation.org>  Wed, 13 Jun 2012 05:36:00 -0000
+
+
