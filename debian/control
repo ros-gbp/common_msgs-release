@@ -1,0 +1,12 @@
+Source: ros-noetic-nav-msgs
+Section: misc
+Priority: optional
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib-msgs, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: http://wiki.ros.org/nav_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-nav-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib-msgs, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: nav_msgs defines the common messages used to interact with the navigation stack.
