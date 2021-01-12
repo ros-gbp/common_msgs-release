@@ -2,20 +2,13 @@
 Changelog for package sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.13.1 (2021-01-11)
+1.12.8 (2021-01-12)
 -------------------
-* Update package maintainers (`#168 <https://github.com/ros/common_msgs/issues/168>`_)
-* Contributors: Michel Hidalgo
-
-1.13.0 (2020-05-21)
--------------------
-* Update BatteryState.msg (`#140 <https://github.com/ros/common_msgs/issues/140>`_)
+* Update package maintainers (`#170 <https://github.com/ros/common_msgs/issues/170>`_)
 * Use setuptools instead of distutils (`#159 <https://github.com/ros/common_msgs/issues/159>`_)
 * Bump CMake version to avoid CMP0048 warning (`#158 <https://github.com/ros/common_msgs/issues/158>`_)
 * Fix TabError: inconsistent use of tabs and spaces in indentation (`#155 <https://github.com/ros/common_msgs/issues/155>`_)
-  * Fix TabError: inconsistent use of tabs and spaces in indentation
-  Python 3 is much more strict for spacing.
-* Contributors: Ramon Wijnands, Rein Appeldoorn, Shane Loretz
+* Contributors: Michel Hidalgo, Ramon Wijnands, Shane Loretz
 
 1.12.7 (2018-11-06)
 -------------------
