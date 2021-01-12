@@ -1,0 +1,12 @@
+Source: ros-melodic-sensor-msgs
+Section: misc
+Priority: optional
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Build-Depends: debhelper (>= 9.0.0), python-setuptools, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-rosbag, ros-melodic-rosunit, ros-melodic-std-msgs
+Homepage: http://ros.org/wiki/sensor_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-sensor-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: This package defines messages for commonly used sensors, including cameras and scanning laser rangefinders.
