@@ -1,3 +1,36 @@
+## common_msgs (melodic) - 1.12.8-1
+
+The packages in the `common_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -t melodic -r melodic common_msgs` on `Tue, 12 Jan 2021 13:12:03 -0000`
+
+These packages were released:
+- `actionlib_msgs`
+- `common_msgs`
+- `diagnostic_msgs`
+- `geometry_msgs`
+- `nav_msgs`
+- `sensor_msgs`
+- `shape_msgs`
+- `stereo_msgs`
+- `trajectory_msgs`
+- `visualization_msgs`
+
+Version of package(s) in repository `common_msgs`:
+
+- upstream repository: git@github.com:ros/common_msgs.git
+- release repository: https://github.com/ros-gbp/common_msgs-release.git
+- rosdistro version: `1.12.7-0`
+- old version: `1.12.7-0`
+- new version: `1.12.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## common_msgs (noetic) - 1.13.1-1
 
 The packages in the `common_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic common_msgs` on `Mon, 11 Jan 2021 22:10:07 -0000`
