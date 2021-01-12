@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(nav_msgs)
 
 find_package(catkin REQUIRED COMPONENTS geometry_msgs message_generation std_msgs actionlib_msgs)
@@ -17,7 +17,8 @@ add_service_files(
   FILES
   GetMap.srv
   GetPlan.srv
-  SetMap.srv)
+  SetMap.srv
+  LoadMap.srv)
 
 add_action_files(
   FILES
