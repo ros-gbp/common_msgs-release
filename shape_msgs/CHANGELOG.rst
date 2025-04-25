@@ -2,11 +2,18 @@
 Changelog for package shape_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.8 (2021-01-12)
+1.13.2 (2025-04-25)
 -------------------
-* Update package maintainers (`#170 <https://github.com/ros/common_msgs/issues/170>`_)
+
+1.13.1 (2021-01-11)
+-------------------
+* Update package maintainers (`#168 <https://github.com/ros/common_msgs/issues/168>`_)
+* Contributors: Michel Hidalgo
+
+1.13.0 (2020-05-21)
+-------------------
 * Bump CMake version to avoid CMP0048 warning (`#158 <https://github.com/ros/common_msgs/issues/158>`_)
-* Contributors: Michel Hidalgo, Shane Loretz
+* Contributors: Shane Loretz
 
 1.12.7 (2018-11-06)
 -------------------

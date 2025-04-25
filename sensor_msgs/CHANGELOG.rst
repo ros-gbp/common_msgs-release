@@ -2,13 +2,27 @@
 Changelog for package sensor_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.12.8 (2021-01-12)
+1.13.2 (2025-04-25)
 -------------------
-* Update package maintainers (`#170 <https://github.com/ros/common_msgs/issues/170>`_)
+* Remove additional spaces (`#180 <https://github.com/ros/common_msgs/issues/180>`_)
+* sensor_msgs/CompressedImage: updated description of format field (`#184 <https://github.com/ros/common_msgs/issues/184>`_)
+* Fix STL assertion on recent libstdc++ when handling empty PointCloud2 (`#192 <https://github.com/ros/common_msgs/issues/192>`_)
+* Contributors: Atsushi Watanabe, Martin Pecka, Oskar
+
+1.13.1 (2021-01-11)
+-------------------
+* Update package maintainers (`#168 <https://github.com/ros/common_msgs/issues/168>`_)
+* Contributors: Michel Hidalgo
+
+1.13.0 (2020-05-21)
+-------------------
+* Update BatteryState.msg (`#140 <https://github.com/ros/common_msgs/issues/140>`_)
 * Use setuptools instead of distutils (`#159 <https://github.com/ros/common_msgs/issues/159>`_)
 * Bump CMake version to avoid CMP0048 warning (`#158 <https://github.com/ros/common_msgs/issues/158>`_)
 * Fix TabError: inconsistent use of tabs and spaces in indentation (`#155 <https://github.com/ros/common_msgs/issues/155>`_)
-* Contributors: Michel Hidalgo, Ramon Wijnands, Shane Loretz
+  * Fix TabError: inconsistent use of tabs and spaces in indentation
+  Python 3 is much more strict for spacing.
+* Contributors: Ramon Wijnands, Rein Appeldoorn, Shane Loretz
 
 1.12.7 (2018-11-06)
 -------------------
